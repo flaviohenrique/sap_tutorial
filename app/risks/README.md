@@ -7,7 +7,7 @@
 |**Generation Platform**<br>Visual Studio Code|
 |**Floorplan Used**<br>List Report Object Page V4|
 |**Service Type**<br>Local Cap|
-|**Service URL**<br>/service/risk/
+|**Service URL**<br>/service/risks/
 |**Module Name**<br>risk|
 |**Application Title**<br>Risks|
 |**Namespace**<br>ns|
@@ -26,7 +26,7 @@ Risks
 
 -   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  In order to launch the generated app, simply start your CAP project and navigate to the following location in your browser:
 
-http://localhost:4004/risk/webapp/index.html
+http://localhost:4004/risks/webapp/index.html
 
 #### Pre-requisites:
 
